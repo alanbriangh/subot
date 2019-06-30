@@ -5,3 +5,7 @@
 - Encontrar un subdominio vulnerable a la técnica (ataque) de "Subdomain Takeover" (utilizando `Subzy` https://github.com/LukaSikic/subzy)
 - Realizar fuerza bruta para encontrar si un subdominio es vulnerable a la técnica (ataque) de "Subdomain Takeover" (Utilizando `subdomain-takeover` https://github.com/antichown/subdomain-takeover)
 - Visualizar el index de cada subdominio encontrado (utilizando `Aquatone` https://github.com/michenriksen/aquatone)
+
+
+**Subdomain Takeover:**
+https://0xpatrik.com/subdomain-takeover-basics/
